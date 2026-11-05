@@ -1,5 +1,5 @@
 
-# 👩🏻‍💻 Lucas Rubens
+# 👨🏻‍💻 Lucas Rubens
 
 **`Analista de Dados | Python | Power BI | SQL | Mercado Financeiro e Consórcios`**
 
